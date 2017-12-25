@@ -1,0 +1,22 @@
+body {
+  margin-top: 15px;
+}
+
+.btn {
+  border-style: hidden
+}
+
+img {
+  border-radius: 4px;
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        margin: 20px 100px 0px 100px;
+    }
+}
+
+.footer-credit {
+  text-align: center;
+  font-size: .75em;
+}
