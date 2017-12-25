@@ -21,7 +21,7 @@ img {
   font-size: .75em;
 }
 
-.container-fluod {
+.container-fluid {
   padding-left: max(12px, constant(safe-area-inset-left));
   padding-right: max(12px, constant(safe-area-inset-right));
  
